@@ -1,0 +1,17 @@
+{
+  "name": "backend-course-2025-5",
+  "version": "1.0.0",
+  "description": "Primitive caching proxy server (lab 5)",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "dependencies": {
+    "commander": "^14.0.2",
+    "superagent": "^10.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
